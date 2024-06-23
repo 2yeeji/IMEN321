@@ -2,5 +2,5 @@
 2024-1 데이터마이닝
 
 Term Project
-- 주제: 당뇨병 환자 예측
+- 주제: 분류 모델을 통한 당뇨병 발병 예측
 - https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data
